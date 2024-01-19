@@ -26,7 +26,7 @@
 
 **<p align = center>-> Who am i? <-</p>**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+Paradox+Detth%2C+frontend+and+backend+developer+with+expertise+in+Python+%26+ReactJS." alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+Paradox+Weets%2C+frontend+and+backend+developer+with+expertise+in+Python+%26+ReactJS." alt="">
 </p>
 
 
@@ -35,7 +35,7 @@
 **<p align = center>-> Contact <-</p>**
 
 <p align = center><a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
-<a href="https://youtube.com/@paradox-detth"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
+<a href="https://youtube.com/@paradoxweets"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="youtube"></a>
 <a href="https://mail.google.com/mail/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=FFCE47AA&logo=Gmail&logoColor=FFFFFF&label=" alt="gmail"></a></p>
 
 </div>
