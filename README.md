@@ -26,7 +26,7 @@
 
 **<p align = center>-> Who am i? <-</p>**
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=17&pause=200&color=F7F7F7&width=830&height=80&lines=I+am+a+Paradox+Weets%2C+frontend+and+backend+developer+with+expertise+in+Python+%26+ReactJS." alt="">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1124FF&random=false&width=435&lines=I+am+a+Paradox+Weets%2C+frontend+and+backend+developer+with+expertise+in+Python+%26+Nodejs+" alt="Typing SVG" /></a>
 </p>
 
 
