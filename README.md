@@ -24,8 +24,6 @@
 
 <h1></h1>
 
-<h1></h1>
-
 **<p align = center>-> Contact <-</p>**
 
 <p align = center><a href="https://discord.gg/rs4VfrUghT"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="discord"></a>
